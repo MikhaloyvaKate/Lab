@@ -1,0 +1,23 @@
+.blok_for_text_1 {
+  height: 228px;
+  width: 432px;
+  margin: 14px 361px 10px 317px;
+}
+.blok_for_text_2 {
+  height: 228px;
+  width: 432px;
+  margin-left: 317px;
+  margin-top: 40px;
+  margin-right: 361px;
+}
+.button {
+  background-color: #1561c5;
+  color: white;
+  padding: 15px 32px;
+  font-size: 13px;
+  border-radius: 12px;
+  margin: 20px 520px 0px 477px;
+}
+.error {
+  color: red;
+}
